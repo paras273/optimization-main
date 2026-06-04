@@ -1,6 +1,6 @@
 # Route Optimization Frontend
 
-A high-performance web application for visualizing and optimizing fleet routes and employee pickups/drop-offs. Built with Next.js, the application provides an interactive map interface, real-time job polling, a comprehensive vehicle simulation engine, and full support for both desktop and mobile experiences.
+A high-performance web application for visualizing and optimizing fleet routes and employee pickups/drop-offs.  Built with Next.js, the application provides an interactive map interface, real-time job polling, a comprehensive vehicle simulation engine, and full support for both desktop and mobile experiences.
 
 ---
 
